@@ -8,5 +8,6 @@ int main()
     cout << "napadut!\n";
     cout << "qkrgmmsmd!\n";
     cout << "ogomdfodjf!\n";
+    cout << "Hello!\n";
 }
 
