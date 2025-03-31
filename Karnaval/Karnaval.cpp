@@ -7,6 +7,7 @@ int main()
     cout << "pechenegi!\n";
     cout << "napadut!\n";
     cout << "qkrgmmsmd!\n";
+    cout << "n3World!\n";
     cout << "ogomdfodjf!\n";
     cout << "Hello!\n";
 }
