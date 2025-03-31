@@ -6,5 +6,6 @@ int main()
     cout << "Hello World!\n";
     cout << "pechenegi!\n";
     cout << "napadut!\n";
+    cout << "qkrgmmsmd!\n";
 }
 
